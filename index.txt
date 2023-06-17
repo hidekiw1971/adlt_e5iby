@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <meta name="format-detection" content="telephone=no" />
+  <!-- meta情報 -->
+  <title>５０歳から契約した有料アダルトビデオのサブスクについて</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <!-- ogp -->
+  <meta property="og:title" content="" />
+  <meta property="og:type" content="" />
+  <meta property="og:url" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:description" content="" />
+  <!-- ファビコン -->
+  <link rel="”icon”" href="" />
+  <!-- css -->
+  <link rel="stylesheet" href="./css/styles.css">
+  <!-- JavaScript -->
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script defer src="./js/script.js"></script>
+</head>
+
+<body>
+  <header class="header">
+    <h1>５０歳から契約した有料アダルトビデオのサブスクについて</h1>
+  </header>
+  <section class="container">
+    <main class="main">
+      <ul class="cards-gallery">
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000y.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000y.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000t.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000y.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000y.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000y.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000y.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+        <li class="cards-gallery-list">
+          <a class="card">
+            <figure class="card-figure">
+              <img class="card-image" src="./images/common/fanza/fz0001/fz0000y.jpeg" alt="">
+            </figure>
+            <h2 class="card-title">作品タイトル</h2>
+          </a>
+        </li>
+        <!-- cards-list -->
+      </ul>
+      <!-- /card -->
+    </main>
+    <aside class="sidebar">
+      <!-- sidebar-nav -->
+      <ul class="sidebar-nav">
+        <!-- sidebar-list -->
+        <li class="sidebar-list">
+          <a href="#" class="search">検索</a>
+        </li>
+        <!-- /sidebar-list -->
+        <li class="sidebar-list">
+          <a href="#" class="search">カテゴリー</a>
+        </li>
+        <!-- /sidebar-list -->
+        <li class="sidebar-list">
+          <a href="#" class="search">タグ</a>
+        </li>
+        <!-- /sidebar-list -->
+        <li class="sidebar-list">
+          <a href="#" class="search">コンテンツ</a>
+        </li>
+        <!-- /sidebar-list -->
+        <li class="sidebar-list">
+          <a href="#" class="search">コンテンツ</a>
+        </li>
+        <!-- /sidebar-list -->
+      </ul>
+      <!-- /sidebar-nav -->
+    </aside>
+  </section>
+  <footer class="footer">
+    <small>&copy;2023/06 ５０歳から契約した有料アダルトビデオのサブスクについて All rights reserved.</small>
+  </footer>
+</body>
+
+</html>

@@ -28,6 +28,7 @@
     "sass-migrator": "^1.5.2"
   },
   "dependencies": {
-    "del": "^6.0.0"
+    "del": "^6.0.0",
+    "micromodal": "^0.4.10"
   }
 }
